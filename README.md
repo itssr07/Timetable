@@ -29,7 +29,7 @@
 - If you found this Project Useful, then Please Consider giving it a :star: on **Github**.
 <br>
 
-<h2 align="center"> Project Created & Maintained By </h2>
+<h1 align="center"> Project Created & Maintained By </h1>
            
 <p align="center">
   <a href="https://github.com/avinashkranjan">
